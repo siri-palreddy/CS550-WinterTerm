@@ -1,0 +1,81 @@
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+  
+  1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+   
+   ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
+I think you should use an
+`<addr>` element here instead.
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+@ symbol, followed by a username, will notify that person to come and view the comment.
+This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
+
+
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+
+Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
+
+
+Steps:
+1. In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+2. Click the drop down at the top of the file list that says branch: master.
+  Type a branch name, readme-edits, into the new branch text box.
+  Select the blue Create branch box or hit “Enter” on your keyboard
+3. Click the README.md file.
+  Click the  pencil icon in the upper right corner of the file view to edit.
+  In the editor, write a bit about yourself.
+  Write a commit message that describes your changes.
+  Click Commit changes button.
+4. Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+  In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).
+  Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
+  When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+  Give your pull request a title and write a brief description of your changes.
+  When you’re done with your message, click Create pull request!
+5. Click the green Merge pull request button to merge the changes into master.
+  Click Confirm merge.
+  Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
