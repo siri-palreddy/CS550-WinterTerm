@@ -1,5 +1,6 @@
 import sys
 
-x = sys.argv[0]
+x = input('What is your name?')
+
 
 print ('Hello, ', x, '!')
